@@ -167,6 +167,7 @@ class ParserTest extends TestCase
             'B O\'Malley;;B;;;O\'Malley;',
             'William Carlos Williams;;William;;Carlos;Williams;',
             'C. Björn Roger O\'Malley;C.;Björn;;Roger;O\'Malley;',
+            'Drew Smith;;Drew;;;Smith;',
             'B. C. O\'Malley;;B.;;C.;O\'Malley;',
             'B C O\'Malley;;B;;C;O\'Malley;',
             'B.J. Thomas;;B.J.;;;Thomas;',
@@ -178,7 +179,7 @@ class ParserTest extends TestCase
             'O\'Malley / C. Björn;C.;Björn;;;O\'Malley;',
             'Smith / Joe;;Joe;;;Smith;',
             'Smith/ Ms Jane Middle;;Jane;;Middle;Smith;',
-            'Smith Jr / Dr Joe;;Joe;;;Smith;Jr',
+            'Smith Jr / Dr Joe;;Joe;;;Smith;Jr'
         );
     }
 }
