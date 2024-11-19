@@ -1,6 +1,6 @@
 <?php
 
-namespace HumanNameParser;
+namespace Thomas14\HumanNameParser;
 
 class Name {
     

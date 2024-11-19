@@ -1,9 +1,9 @@
 <?php
 
-namespace HumanNameParser\Test;
+namespace Thomas14\HumanNameParser\Test;
 
-use HumanNameParser\Parser;
 use PHPUnit\Framework\TestCase;
+use Thomas14\HumanNameParser\Parser;
 
 class ParserTest extends TestCase
 {

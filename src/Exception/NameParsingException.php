@@ -1,6 +1,6 @@
 <?php
 
-namespace HumanNameParser\Exception;
+namespace Thomas14\HumanNameParser\Exception;
 
 /**
 * Exception for NameParsing

@@ -4,12 +4,11 @@
  * Split a single name string into it's name parts (first name, last name, titles, middle names)
  */
 
-namespace HumanNameParser;
+namespace Thomas14\HumanNameParser;
 
-use HumanNameParser\Name;
-use HumanNameParser\Exception\FirstNameNotFoundException;
-use HumanNameParser\Exception\LastNameNotFoundException;
-use HumanNameParser\Exception\NameParsingException;
+use Thomas14\HumanNameParser\Exception\FirstNameNotFoundException;
+use Thomas14\HumanNameParser\Exception\LastNameNotFoundException;
+use Thomas14\HumanNameParser\Exception\NameParsingException;
 
 class Parser
 {
